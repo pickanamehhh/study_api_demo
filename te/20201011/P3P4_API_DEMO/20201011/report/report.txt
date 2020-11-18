@@ -1,0 +1,22 @@
+test_add_01 (test_demo_01.TestDemo01_02) ... ok
+test_add_005 (test_demo_01.TestDemo01_02) ... ok
+test_add_005 (test_sub_suite_01.test_demo_01.TestDemo01_01) ... ok
+test_add_01 (test_sub_suite_01.test_demo_01.TestDemo01_01) ... ok
+test_add_02 (test_sub_suite_01.test_demo_01.TestDemo01_01) ... ok
+test_add_005 (test_sub_suite_01.test_demo_01.TestDemo01_02) ... ok
+test_add_01 (test_sub_suite_01.test_demo_01.TestDemo01_02) ... ok
+test_add_02 (test_sub_suite_01.test_demo_01.TestDemo01_02) ... ok
+test_add_005 (test_sub_suite_01.test_demo_02.TestDemo02_01) ... ok
+test_add_01 (test_sub_suite_01.test_demo_02.TestDemo02_01) ... ok
+test_add_02 (test_sub_suite_01.test_demo_02.TestDemo02_01) ... ok
+test_add_005 (test_sub_suite_01.test_demo_02.TestDemo02_02) ... ok
+test_add_01 (test_sub_suite_01.test_demo_02.TestDemo02_02) ... ok
+test_add_02 (test_sub_suite_01.test_demo_02.TestDemo02_02) ... ok
+test_add_005 (test_sub_suite_02.test_demo_01.TestDemo01_01) ... ok
+test_add_01 (test_sub_suite_02.test_demo_01.TestDemo01_01) ... ok
+test_add_02 (test_sub_suite_02.test_demo_01.TestDemo01_01) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.004s
+
+OK
